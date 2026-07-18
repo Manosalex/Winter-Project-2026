@@ -5,6 +5,7 @@ int main()
     int choice;
 
     adminLogin();
+    createDatabase();
 
     while(1)
     {
