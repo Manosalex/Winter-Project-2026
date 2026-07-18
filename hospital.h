@@ -71,5 +71,5 @@ void viewBills();
 void addMedicine();
 void viewMedicine();
 
-
+void createDatabase();
 #endif
